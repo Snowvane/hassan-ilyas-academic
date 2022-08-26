@@ -13,7 +13,7 @@ external_link: https://hassan-ilyas.com/
 
 # image:
 #  caption: Photo by rawpixel on Unsplash
-#  focal_point: 
+#  focal_point: smart
 
 # links:
 #   - icon: twitter
