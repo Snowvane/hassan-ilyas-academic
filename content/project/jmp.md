@@ -1,8 +1,5 @@
 ---
-title: |
-  <DIV align="justify"> 
-  Trade Secrets, Proprietary Information, and Managerial Learning 
-  </DIV>
+title: Trade Secrets, Proprietary Information, and Managerial Learning
 summary: |
   (Job Market Paper)
 
