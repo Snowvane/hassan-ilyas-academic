@@ -19,9 +19,9 @@ main:
   - name: Practitioner Publications
     url: '#featured'
     weight: 30
- - name: CV
-   url: uploads/Hassan_Ilyas_CV.pdf
-   weight: 40
+  - name: CV
+    url: uploads/Hassan_Ilyas_CV.pdf
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
