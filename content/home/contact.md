@@ -15,29 +15,29 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
+<!--   # Email form provider
   form:
     provider: netlify
     formspree:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: false -->
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: hi75@cornell.edu
+  phone: +1 (217) 898-9972
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 241 Sage Hall, 114 East Avenue
+    city: Ithaca
+    region: NY
+    postcode: '14853'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '42.4459'
+    longitude: '76.4833'
+<!--   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
@@ -50,7 +50,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://zoom.com' -->
 
 design:
   columns: '2'
