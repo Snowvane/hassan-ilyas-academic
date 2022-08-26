@@ -72,10 +72,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-<DIV white-space: pre-line; text-align: justify; -moz-text-align-last: justify; text-align-last: justify;> 
-I am a PhD student in Finance at the SC Johnson College of Business at Cornell University. My research is in the field of empirical corporate finance with a focus on how managers learn from and are influenced by financial markets and institutions.
-
+<DIV align="justify"> 
+  <p>
+    I am a PhD student in Finance at the SC Johnson College of Business at Cornell University. My research is in the field of empirical corporate finance with a focus on how managers learn from and are influenced by financial markets and institutions.
+  </p>
 I am on the 2022-2023 Finance job market.
 <DIV>
 
