@@ -17,12 +17,12 @@ organizations:
 bio: | 
   I am a PhD student in Finance at the SC Johnson College of Business at Cornell University. My research is in the field of empirical corporate finance with a focus on   how managers learn from and are influenced by financial markets and institutions.
  
-  Hassan is on the 2022-2023 Finance job market.
+  I am on the 2022-2023 Finance job market.
 
 # Interests to show in About widget
 interests:
   - Empirical Corporate Finance
-  - Mangerial Learning
+  - Managerial Learning
   - Financial Institutions
 
 # Education to show in About widget
@@ -75,4 +75,6 @@ highlight_name: true
 
 I am a PhD student in Finance at the SC Johnson College of Business at Cornell University. My research is in the field of empirical corporate finance with a focus on how managers learn from and are influenced by financial markets and institutions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Hassan_Ilyas_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am on the 2022-2023 Finance job market.
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Hassan_Ilyas_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
