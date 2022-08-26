@@ -17,7 +17,7 @@ main:
 #     url: '#talks'
 #     weight: 40
   - name: Practitioner Publications
-    url: '#featured'
+    url: '#practitioner'
     weight: 30
   - name: CV
     url: uploads/Hassan_Ilyas_CV.pdf
