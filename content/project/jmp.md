@@ -1,13 +1,13 @@
 ---
-title: Technological Progress, Managerial Learning, and the Investment-to-Stock Price Sensitivity
+title: Trade Secrets, Proprietary Information, and Managerial Learning
 summary: |
-  (with [Kevin Aretz](https://www.kevin-aretz.com/) and [Gaurav Kankanhalli](https://gauravkankanhalli.com/))
+  (Job Market Paper)
 
-  Technological Progress, Managerial Learning, and the Investment-to-Stock Price Sensitivity summary: Motivated by a real options investment framework in which managers learn about the unobservable characteristics of new production technologies from their recently installed assets and their firm’s stock price, we show that the corporate investment-to-stock price sensitivity rises with the time since a firm last acquired new capacity, proxied through its “capacity overhang.” Our results hold under various investment, employment, and Tobin’s Q measures, and controlling for private information in stock prices and firm financial constraints. Notably, managers learn less from the stock price when they have more private information or access to alternative outside information sources. We shed light on the nature of information managers extract from markets by exploiting quasi-exogenous variation in technological progress, showing that the tendency of firms with outdated capital to learn from the stock price is more pronounced when those firms are more exposed to accelerated innovation.
+  I study changes in managerial learning from stock prices after an increase in the protection of trade secrets allows managers to withhold proprietary information and substitute it with increased disclosure of nonproprietary information. Using the staggered U.S. state-level adoption of the Uniform Trade Secrets Act, I show that this trade-off leads to a decline in the sensitivity of firm investment to Tobin's \textit{Q}. Consistent with the managerial learning hypothesis, further analysis shows that this decline is concentrated in firms with low financing constraints and more sophisticated investors. Using theoretical motivation from literature and machine learning techniques, I identify industries with a positive “treatment” effect, but a different relative value of proprietary and nonproprietary information to provide novel evidence that the \textit{type} of disclosure plays an additional role beyond its level. Disclosure of information that acts as a substitute (complement) to the information aggregation activities leads to reduced (increased) managerial learning.
 
 tags:
   - Working Papers
-date: '2016-04-27T00:00:00Z'
+date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://hassan-ilyas.com/
