@@ -5,7 +5,7 @@ summary: |
 
 tags:
   - CMR
-date: '2020-03-15T00:00:00Z'
+date: '2022-03-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://cmr.berkeley.edu/2022/03/the-rapid-rise-and-fall-of-biotech-stocks-adversely-impacts-the-society/
