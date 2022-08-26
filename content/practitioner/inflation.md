@@ -5,7 +5,7 @@ summary: |
 
 tags:
   - HBR
-date: '2020-05-2T00:00:00Z'
+date: '2022-05-2T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://hbr.org/2022/05/how-companies-can-prepare-for-a-long-run-of-high-inflation
