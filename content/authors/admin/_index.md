@@ -77,4 +77,4 @@ I am a PhD student in Finance at the SC Johnson College of Business at Cornell U
 
 I am on the 2022-2023 Finance job market.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Hassan_Ilyas_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Hassan_Ilyas_CV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
