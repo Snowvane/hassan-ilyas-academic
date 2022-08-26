@@ -14,9 +14,10 @@ organizations:
     url: https://www.johnson.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in Finance at the SC Johnson College of Business at Cornell University. My research is in the field of empirical corporate finance with a focus on how managers learn from and are influenced by financial markets and institutions.
+bio: | 
+  I am a PhD student in Finance at the SC Johnson College of Business at Cornell University. My research is in the field of empirical corporate finance with a focus on   how managers learn from and are influenced by financial markets and institutions.
  
-Hassan is on the 2022-2023 Finance job market.
+  Hassan is on the 2022-2023 Finance job market.
 
 # Interests to show in About widget
 interests:
