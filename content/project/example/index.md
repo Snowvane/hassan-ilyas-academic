@@ -31,9 +31,7 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: ""
----
 
----
 title: Technological Progress, Managerial Learning, and the Investment-to-Stock Price Sensitivity
 summary: |
   (with [Kevin Aretz](https://www.kevin-aretz.com/) and [Gaurav Kankanhalli](https://gauravkankanhalli.com/))
