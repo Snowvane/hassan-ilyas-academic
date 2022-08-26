@@ -15,9 +15,9 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: | 
-  I am a PhD student in Finance at the SC Johnson College of Business at Cornell University. My research is in the field of empirical corporate finance with a focus on   how managers learn from and are influenced by financial markets and institutions.
+  <DIV align="justify"> I am a PhD student in Finance at the SC Johnson College of Business at Cornell University. My research is in the field of empirical corporate finance with a focus on   how managers learn from and are influenced by financial markets and institutions.
  
-  I am on the 2022-2023 Finance job market.
+  I am on the 2022-2023 Finance job market. <DIV>
 
 # Interests to show in About widget
 interests:
