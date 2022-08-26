@@ -4,8 +4,8 @@ summary: |
   (with [Vijay Govindarajan](https://www.tuck.dartmouth.edu/people/vg/), [Anup Srivastava](https://haskayne.ucalgary.ca/haskayne_info/profiles/anup-srivastava), [Felipe Bastos Gurgel Silva](https://sites.google.com/cornell.edu/felipebgsilva/home) and [Luminita Enache](https://haskayne.ucalgary.ca/haskayne_info/profiles/luminita-enache))
 
 tags:
-  - CMR
-date: '2022-08-1T00:00:00Z'
+  - HBR
+date: '2022-08-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://hbr.org/2022/08/restoring-shareholder-confidence-when-your-stock-is-down
