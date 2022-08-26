@@ -1,9 +1,10 @@
+<DIV align="justify"> 
 ---
-title: <DIV align="justify"> Trade Secrets, Proprietary Information, and Managerial Learning </DIV>
+title: Trade Secrets, Proprietary Information, and Managerial Learning
 summary: |
   (Job Market Paper)
 
-  <DIV align="justify"> I study changes in managerial learning from stock prices after an increase in the protection of trade secrets allows managers to withhold proprietary information and substitute it with increased disclosure of nonproprietary information. Using the staggered U.S. state-level adoption of the Uniform Trade Secrets Act, I show that this trade-off leads to a decline in the sensitivity of firm investment to Tobin's _Q_. Consistent with the managerial learning hypothesis, further analysis shows that this decline is concentrated in firms with low financing constraints and more sophisticated investors. Using theoretical motivation from literature and machine learning techniques, I identify industries with a positive “treatment” effect, but a different relative value of proprietary and nonproprietary information to provide novel evidence that the _type_ of disclosure plays an additional role beyond its level. Disclosure of information that acts as a substitute (complement) to the information aggregation activities leads to reduced (increased) managerial learning. </DIV>
+  I study changes in managerial learning from stock prices after an increase in the protection of trade secrets allows managers to withhold proprietary information and substitute it with increased disclosure of nonproprietary information. Using the staggered U.S. state-level adoption of the Uniform Trade Secrets Act, I show that this trade-off leads to a decline in the sensitivity of firm investment to Tobin's _Q_. Consistent with the managerial learning hypothesis, further analysis shows that this decline is concentrated in firms with low financing constraints and more sophisticated investors. Using theoretical motivation from literature and machine learning techniques, I identify industries with a positive “treatment” effect, but a different relative value of proprietary and nonproprietary information to provide novel evidence that the _type_ of disclosure plays an additional role beyond its level. Disclosure of information that acts as a substitute (complement) to the information aggregation activities leads to reduced (increased) managerial learning. 
 
 tags:
   - Working Papers
@@ -33,7 +34,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: ""
 ---
-
+ </DIV>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
