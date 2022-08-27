@@ -20,7 +20,7 @@ main:
     url: '#practitioner'
     weight: 30
   - name: CV
-    url: uploads/Hassan_Ilyas_CV.pdf
+    url: '#cv'
     weight: 40
   - name: Contact
     url: '#contact'
