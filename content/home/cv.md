@@ -13,4 +13,4 @@ title: 'Curriculum Vitae'
 subtitle:
 ---
 
-{{< gdocs src="https://drive.google.com/file/d/1vfE5romf_s3lld8dThmbcPdWCgopiMpP/view?usp=sharing" >}}
+<iframe src="https://drive.google.com/file/d/1vfE5romf_s3lld8dThmbcPdWCgopiMpP/preview" width="640" height="480" allow="autoplay"></iframe>
