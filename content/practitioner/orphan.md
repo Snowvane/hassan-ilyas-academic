@@ -1,11 +1,12 @@
 ---
 title: Restoring Shareholder Confidence When Your Stock Is Down
 summary: |
+  <em> Harvard Business Review </em> (August 04, 2022)
   (with [Vijay Govindarajan](https://www.tuck.dartmouth.edu/people/vg/), [Anup Srivastava](https://haskayne.ucalgary.ca/haskayne_info/profiles/anup-srivastava), [Felipe Bastos Gurgel Silva](https://sites.google.com/cornell.edu/felipebgsilva/home), and [Luminita Enache](https://haskayne.ucalgary.ca/haskayne_info/profiles/luminita-enache))
 
 tags:
   - HBR
-date: '2022-08-01T00:00:00Z'
+date: '2022-08-04T00:00:00Z'
 show_date: false
 
 # Optional external URL for project (replaces project detail page).
