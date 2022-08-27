@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
+advanced:
+  css_style: "text-align: justify;"
+
 # This file represents a page section.
 headless: true
 
