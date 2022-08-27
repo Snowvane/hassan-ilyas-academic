@@ -34,6 +34,7 @@ experience:
   - title: Quantitative Analyst - Intern
     company: SpiderRock Advisors, LLC
     company_url: https://www.spiderrockadvisors.com/
+    company_logo: spiderrock
     location: Chicago, IL
     date_start: '2015-10-01'
     date_end: '2016-04-30'
@@ -41,7 +42,8 @@ experience:
     
   - title: Summer Analyst
     company: American International Group
-    company_url: aig.com
+    company_url: https://www.aig.com/
+    company_logo: aig
     location: Fort Worth, TX
     date_start: '2015-06-08'
     date_end: '2015-08-14'
@@ -50,6 +52,7 @@ experience:
   - title: Automation Engineer
     company: Packages Limited
     company_url: https://www.packages.com.pk/
+    company_logo: packages
     location: Lahore, Pakistan
     date_start: '2012-08-27'
     date_end: '2013-06-30'
