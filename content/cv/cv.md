@@ -1,6 +1,3 @@
 '''
-<a 
-  href="https://www.dropbox.com/s/rll32j45y90g303/Hassan_Ilyas_CV.pdf?dl=0" 
-  class="dropbox-embed"
-></a>
+<embed src='https://cseweb.ucsd.edu/classes/fa06/cse120/lectures/120-fa06-l13.pdf' type='application/pdf'>
 '''
