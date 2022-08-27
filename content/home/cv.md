@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - cv
+      - publication
     tag: ''
     category: ''
     publication_type: ''
