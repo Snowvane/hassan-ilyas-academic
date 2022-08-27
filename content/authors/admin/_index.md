@@ -23,7 +23,8 @@ bio: |
 interests:
   - Empirical Corporate Finance
   - Managerial Learning
-  - Financial Institutions & Intermediaries
+  - Financial Institutions 
+  - Financial Intermediaries
 
 # Education to show in About widget
 education:
