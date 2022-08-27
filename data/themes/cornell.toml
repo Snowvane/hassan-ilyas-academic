@@ -8,7 +8,7 @@ name = "Cornell"
   # Menu
   menu_primary = "#B31B1B"
   menu_text = "#fff"
-  menu_text_active = "rgb(255, 0, 60)"
+  menu_text_active = "#000"
   menu_title = "#fff"
 
   # Home sections
