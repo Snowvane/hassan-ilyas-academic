@@ -7,7 +7,6 @@
 
 appearance:
   theme_day: cornell
-  theme_night: cornell
   font: minimal
   font_size: L
 
