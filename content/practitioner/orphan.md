@@ -6,6 +6,7 @@ summary: |
 tags:
   - HBR
 date: '2022-08-01T00:00:00Z'
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://hbr.org/2022/08/restoring-shareholder-confidence-when-your-stock-is-down
