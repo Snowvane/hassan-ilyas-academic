@@ -23,7 +23,7 @@ bio: |
 interests:
   - Empirical Corporate Finance
   - Managerial Learning
-  - Financial Institutions
+  - Financial Institutions & Intermediaries
 
 # Education to show in About widget
 education:
@@ -34,7 +34,7 @@ education:
     - course: MS Financial Engineering
       institution: University of Illinois at Urbana-Champaign
       year: 2016
-    - course: BSc in Electrical Engineering
+    - course: BS in Electrical Engineering
       institution: Lahore University of Management Sciences
       year: 2012
 
