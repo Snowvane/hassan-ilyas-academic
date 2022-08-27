@@ -5,7 +5,10 @@ summary: <DIV align="justify"> I study changes in managerial learning from stock
 tags:
   - Working Papers
 date: '2022-04-27T00:00:00Z'
-
+ 
+advanced:
+  css_style: "text-align: justify;" 
+ 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://hassan-ilyas.com/'
 
