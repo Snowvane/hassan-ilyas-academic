@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 'CV'
+title: 'Curriculum Vitae'
 subtitle:
 ---
 
-My CV is available in [HTML](cv/) or [PDF](cv/cv.pdf) form. (Last updated: March 31, 2022)
+{{< gdocs src="https://drive.google.com/drive/folders/1j5GAbvzXJOVArr4Pg623xdKpL_OoJ5FJ?usp=sharing" >}}
