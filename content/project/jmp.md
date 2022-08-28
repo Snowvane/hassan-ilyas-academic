@@ -4,7 +4,7 @@ summary: I study changes in managerial learning from stock prices after an incre
 
 tags:
   - Working Papers
-date: '2022-04-27T00:00:00Z'
+date: '2022-07-31T00:00:00Z'
  
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://hassan-ilyas.com/'
