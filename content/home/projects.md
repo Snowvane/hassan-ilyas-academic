@@ -4,11 +4,7 @@
 widget: portfolio
 
 advanced:
-  css_style: 
-    text-align: justify; 
-    hyphens: auto;
-    -webkit-hyphens:auto;
-    word-spacing: -0.05em;
+  css_style: "text-align: justify; hyphens: auto; -webkit-hyphens:auto; word-spacing: -0.05em;"
 
 # This file represents a page section.
 headless: true
