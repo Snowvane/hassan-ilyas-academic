@@ -7,8 +7,7 @@ widget: portfolio
 headless: true
 
 advanced:
-  css_style: "text-align: justify;"
-  css_style: "word-spacing: -2px;"
+  css_style: "text-align: justify; word-spacing: -2px;"
 
 # Order that this section appears on the page.
 weight: 30
