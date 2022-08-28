@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 advanced:
-  css_style: "text-align: justify; hyphens: auto; -webkit-hyphens:auto; word-spacing: -0.5em;"
+  css_style: "text-align: justify; hyphens: auto; -webkit-hyphens:auto; word-spacing: -0.1em;"
 
 # Order that this section appears on the page.
 weight: 30
