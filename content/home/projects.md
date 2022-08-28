@@ -5,7 +5,7 @@ widget: portfolio
 
 advanced:
   css_style: "text-align: justify;"
-  css_style: "word-spacing: -2px;"
+  css_style: "word-spacing: -.05px;"
 
 # This file represents a page section.
 headless: true
