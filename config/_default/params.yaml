@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: cornell
-  font: minimal
+  font: classic
   font_size: M
 
 # SEO
@@ -40,14 +40,14 @@ header:
 
 # Site footer
 
-# footer:
-#   copyright:
-#     notice: '© {year} Hassan Ilyas'
-#     license:
-#       enable: false
-#       allow_derivatives: false
-#       share_alike: true
-#       allow_commercial: false
+footer:
+  copyright:
+    notice: '© {year} Hassan Ilyas'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
