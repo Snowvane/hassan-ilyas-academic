@@ -10,7 +10,7 @@ tags:
 date: '2022-06-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://hassan-ilyas.com/
+external_link: 
 
 # image:
 #  caption: Photo by rawpixel on Unsplash
