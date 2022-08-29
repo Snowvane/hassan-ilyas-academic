@@ -31,5 +31,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: ""
 ---
+
+header {text-align: justify;}
+
 Work in progress, to be updated soon!
 
