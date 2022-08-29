@@ -70,7 +70,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-# About Me
+# About  Me
 <DIV align="justify"> 
   <p>
     I am a PhD student in Finance at the SC Johnson College of Business at Cornell University. My research is in the field of empirical corporate finance, with a focus on how managers learn from and are influenced by financial markets and institutions.
