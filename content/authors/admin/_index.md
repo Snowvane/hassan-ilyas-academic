@@ -10,7 +10,7 @@ role: PhD Student at Cornell University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Cornell University
+  - name: SC Johnson College of Business, Cornell University
     url: https://www.johnson.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
