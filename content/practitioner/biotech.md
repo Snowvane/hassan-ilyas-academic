@@ -3,7 +3,7 @@ title: The Rapid Rise and Fall of Biotech Stocks Adversely Impacts the Society
 summary: |
   <em> California Management Review </em> (March 15, 2022)
   
-  (with [Vijay Govindarajan](https://www.tuck.dartmouth.edu/people/vg/), [Anup Srivastava](https://haskayne.ucalgary.ca/haskayne_info/profiles/anup-srivastava), [Felipe Bastos Gurgel Silva](https://sites.google.com/cornell.edu/felipebgsilva/home), and [Luminita Enache](https://haskayne.ucalgary.ca/haskayne_info/profiles/luminita-enache))
+  (with [Vijay Govindarajan](https://www.tuck.dartmouth.edu/people/vg/), [Felipe Bastos Gurgel Silva](https://sites.google.com/cornell.edu/felipebgsilva/home), [Anup Srivastava](https://haskayne.ucalgary.ca/haskayne_info/profiles/anup-srivastava), and [Luminita Enache](https://haskayne.ucalgary.ca/haskayne_info/profiles/luminita-enache))
 
 tags:
   - CMR
