@@ -33,7 +33,7 @@ url_video: ''
 ---
 
 <header>
-	<div><h1>Political Uncertainty and Geographical Reallocation of Bank Syndicated Lending</h1></div>
+	<div align="justify"> <h1>Political Uncertainty and Geographical Reallocation of Bank Syndicated Lending</h1></div>
 </header>
 
 Work in progress, to be updated soon!
