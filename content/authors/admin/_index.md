@@ -29,7 +29,7 @@ education:
     - course: PhD in Finance
       institution: Cornell University
       year: 2023
-    - course: MS Financial Engineering
+    - course: MS in Financial Engineering
       institution: University of Illinois at Urbana-Champaign
       year: 2016
     - course: BS in Electrical Engineering
