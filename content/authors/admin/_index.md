@@ -52,7 +52,7 @@ social:
     link: https://hassan-ilyas.com/
   - icon: ssrn
     icon_pack: ai
-    link: https://hassan-ilyas.com/
+    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3242598
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hassanilyas/
