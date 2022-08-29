@@ -32,7 +32,9 @@ url_video: ''
 # slides: ""
 ---
 
-header {text-align: justify;}
+<header>
+	<div><h1>Political Uncertainty and Geographical Reallocation of Bank Syndicated Lending</h1></div>
+</header>
 
 Work in progress, to be updated soon!
 
