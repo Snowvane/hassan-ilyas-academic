@@ -44,9 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:hi75@cornell.edu
-  - icon: twitter
+<!--   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Hassan1lyas
+    link: https://twitter.com/Hassan1lyas -->
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://hassan-ilyas.com/
