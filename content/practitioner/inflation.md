@@ -3,7 +3,7 @@ title: How Companies Can Prepare for a Long Run of High Inflation
 summary: |
   <em> Harvard Business Review </em> (May 02, 2022)
   
-  (with [Vijay Govindarajan](https://www.tuck.dartmouth.edu/people/vg/), [Anup Srivastava](https://haskayne.ucalgary.ca/haskayne_info/profiles/anup-srivastava), [Felipe Bastos Gurgel Silva](https://sites.google.com/cornell.edu/felipebgsilva/home), and [Luminita Enache](https://haskayne.ucalgary.ca/haskayne_info/profiles/luminita-enache))
+  (with [Vijay Govindarajan](https://www.tuck.dartmouth.edu/people/vg/), [Felipe Bastos Gurgel Silva](https://sites.google.com/cornell.edu/felipebgsilva/home), [Anup Srivastava](https://haskayne.ucalgary.ca/haskayne_info/profiles/anup-srivastava), and [Luminita Enache](https://haskayne.ucalgary.ca/haskayne_info/profiles/luminita-enache))
 
 tags:
   - HBR
