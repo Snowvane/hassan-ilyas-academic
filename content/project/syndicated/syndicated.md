@@ -1,7 +1,4 @@
----
-advanced:
-  css_style: "text-align: justify; color: blue;"
-  
+---  
 title: Political Uncertainty and Geographical Reallocation of Bank Syndicated Lending
 summary: |
   (with [Pradeep Muthukrishnan](https://www.pradeepmuthukrishnan.com/))
@@ -33,6 +30,8 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: ""
+
+advanced:
+  css_style: "text-align: justify; color: blue;"
 ---
 Work in progress, to be updated soon!
-
