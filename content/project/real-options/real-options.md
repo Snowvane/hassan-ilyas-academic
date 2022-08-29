@@ -1,6 +1,4 @@
 ---
-advanced:
-  css_style: "text-align: justify; hyphens: auto; -webkit-hyphens:auto; word-spacing: -0.05em;"
 title: Technological Progress, Managerial Learning, and the Investment-to-Stock Price Sensitivity
 summary: |
   (with [Kevin Aretz](https://www.kevin-aretz.com/) and [Gaurav Kankanhalli](https://gauravkankanhalli.com/))
