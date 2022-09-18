@@ -1,5 +1,5 @@
 ---
-title: Equity ETF Inefficiencies During Market Disruptions: The Role of Liquidity, Short-Selling, and Information Shocks
+title: "Equity ETF Inefficiencies During Market Disruptions: The Role of Liquidity, Short-Selling, and Information Shocks"
 summary: |
   (with [Sanjeev Bhojraj](https://www.johnson.cornell.edu/faculty-research/faculty/sb235/), [Felipe Bastos Gurgel Silva](https://sites.google.com/cornell.edu/felipebgsilva/home)), and [Suning Zhang](https://www.ivybusiness.iastate.edu/directory/suningz/))
 
