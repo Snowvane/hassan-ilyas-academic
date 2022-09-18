@@ -4,7 +4,7 @@ summary: |
   (with [Pradeep Muthukrishnan](https://www.pradeepmuthukrishnan.com/))
 
 tags:
-  - Work in Progress
+  - Works in Progress
 date: '2022-04-26T00:00:00Z'
  
 # Optional external URL for project (replaces project detail page).
