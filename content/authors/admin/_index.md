@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://www.dropbox.com/s/m2kd4rn76myfbas/Hassan%20Ilyas%20CV.pdf?dl=0
+    link: https://www.dropbox.com/s/8tzuylnyiauw860/Hassan%20Ilyas%20CV.pdf?dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
