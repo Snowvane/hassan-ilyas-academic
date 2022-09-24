@@ -47,9 +47,9 @@ social:
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/Hassan1lyas
-#  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-#    icon_pack: ai
-#    link: https://hassan-ilyas.com/
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Fys9Eh0AAAAJ&hl=en
   - icon: ssrn
     icon_pack: ai
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3242598
