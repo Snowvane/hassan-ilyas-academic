@@ -16,7 +16,7 @@ main:
 #   - name: Talks
 #     url: '#talks'
 #     weight: 40
-  - name: Practitioner
+  - name: Publications
     url: '#practitioner'
     weight: 30
   - name: CV
